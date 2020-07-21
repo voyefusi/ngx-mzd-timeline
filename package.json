@@ -1,6 +1,6 @@
 {
   "name": "voyefusi-mzd-timeline-app",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Minimalist's vertical timeline library for Angular applications.",
   "repository": {
     "type": "git",
@@ -29,7 +29,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~9.1.7",
     "@angular/cdk": "~9.2.3",
