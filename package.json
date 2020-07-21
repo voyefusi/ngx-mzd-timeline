@@ -14,6 +14,7 @@
     "ngx-timeline",
     "angular-material"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Mohammad Mazedul Islam (mazidmailbox@gmail.com)",
   "license": "MIT",
   "bugs": {
