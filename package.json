@@ -1,10 +1,10 @@
 {
-  "name": "mzd-timeline-app",
+  "name": "voyefusi-mzd-timeline-app",
   "version": "0.0.1",
   "description": "Minimalist's vertical timeline library for Angular applications.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mazid1/ngx-mzd-timeline.git"
+    "url": "https://github.com/voyefusi/ngx-mzd-timeline.git"
   },
   "keywords": [
     "angular",
